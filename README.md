@@ -12,10 +12,12 @@ We covered a good deal of material today.  **Essentials** will give you a quick 
 
 ##Swift##
 + **Variables**: The concept of a variable in Swift is the same as it is in other programming languages. A variable serves as a placeholder for a certain value that can change.  For example, can have a variable called 
+
 ```Swift
 var lyel_age:Int = 62
 ```
-You'll notice that variable declaration is a little different in Swift.  You have to *also declare the variable **data type** * when you delcare your variable.  Why do you think Apple wants you to do this?
+
+You'll notice that variable declaration is a little different in Swift.  You have to *also declare the variable* **data type** when you delcare your variable.  Why do you think Apple wants you to do this?
 Speaking of data types, in Swift, you'll find the same common data types that you've likely seen in other langugages, inclusing *String, Int, Double, and Bool.*  A data type is a way of representing a certain type of data.  
 + **Constants**: Constants are simply variables that do not change.  Can you think of a few examples of constants from science?  How about constants that apply to you?
 ```Swift
