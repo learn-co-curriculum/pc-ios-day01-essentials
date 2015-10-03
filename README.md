@@ -11,7 +11,7 @@ We covered a good deal of material today.  **Essentials** will give you a quick 
 + **IBAction**: An IBAction is like an IBOutlet, except it is explicitly meant to create a beahvior, or call a function, upon a certain user interaction.  Can you think of an example of when we would invoke an IBAction?  As an example, and IBAction is created when a user clicks a button that changes the text of a label.
 
 ##Swift##
-+ **Variables**: The concept of a variable in Swift is the same as it is in other programming languages. A variable serves as a placeholder for a certain value that can change.  For example, can have a variable called 
++ **Variables**: The concept of a variable in Swift is the same as it is in other programming languages. A variable serves as a placeholder for a certain value that can change.  For example, you can have a variable called 
 ```Swift
 var lyel_age:Int = 62
 ```
