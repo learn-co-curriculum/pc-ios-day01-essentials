@@ -23,7 +23,7 @@ let speed_of_light_miles_per_sec:Int = 186,000
 let your_name:String = "St. Thomas Acquinas"
 ```
 We declare constants the same way we declare variables, except with a **let** instead of **var**.
-+ **Operators**: We can do all sorts of things to variables and constants, including all of the basic math operators *+,-,\*,%*.  One important thing — you can only perform an operation between two variables or constants *if they are the same data type.*  For example
++ **Operators**: We can do all sorts of things to variables and constants, including all of the basic math operators *+,-,/*,%*.  One important thing — you can only perform an operation between two variables or constants *if they are the same data type.*  For example
 ```Swift
 var my_apples:Int = 35
 var your_apples:Int = 4
