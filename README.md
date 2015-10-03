@@ -28,5 +28,5 @@ We declare constants the same way we declare variables, except with a **let** in
 var my_apples:Int = 35
 var your_apples:Int = 4
 var our_apples:Int = my_apples + your_apples
-print("\(our_apples)"
-)```
+print("\(our_apples)")
+```
