@@ -34,4 +34,4 @@ var our_apples:Int = my_apples + your_apples
 print("\(our_apples)")
 ```
 
-<a href='https://learn.co/lessons/pc-ios-day01-essentials' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-day01-essentials' title='Essentials'>Essentials</a> on Learn.co and start learning to code for free.</p>
